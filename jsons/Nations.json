@@ -18,7 +18,7 @@
 		"innerColor": [0,0,0],
 		"favoredReligion": "Christianity",
 		"uniqueName": "Viribus Unitis",
-		"uniques": ["+[3] Movement for all [Mounted] units", "Double quantity of [Horses] produced", "Units fight as though they were at full strength even when damaged","-[50]% [Land] unit maintenance costs","Can spend Gold to annex or puppet a City-State that has been your ally for [5] turns."],
+		"uniques": ["+[3] Movement <for [Mounted] units>", "Double quantity of [Horses] produced", "Units fight as though they were at full strength even when damaged","-[50]% [Land] unit maintenance costs","Can spend Gold to annex or puppet a City-State that has been your ally for [5] turns."],
 		"cities": ["Wien","Salzburg","Graz","Eisenstadt","Sankt Pölten","Klagenfurt","Linz","Trent","Venedig","Bregenz",
 			"Bozen","Budapest","Praha","Zagreb","Laibach","Pressburg","Lviv","Cluj","Milano","Triest",
 			"Chernivtsi","Zadar","Görz","Gradisca","Rovinj","Brno","Opava","Rijeka","Sarajevo",
