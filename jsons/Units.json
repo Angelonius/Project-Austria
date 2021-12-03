@@ -1,0 +1,32 @@
+[
+    {
+		"name": "Reichsritter",
+        "replaces": "Knight",
+        "uniqueTo": "United States Of Greater Austria",
+		"unitType": "Mounted",
+		"movement": 5,
+		"strength": 35,
+		"cost": 125,
+		"requiredTech": "Chivalry",
+		"requiredResource": "Horses",
+		"uniques": ["Can move after attacking","[+50]% Strength <vs [Mounted]>""[+1] Sight", "[+50]% to Flank Attack bonuses"],
+		"promotions": ["Charge","Great Generals II","Quick Study"],
+        "hurryCostModifier": 20,
+		"attackSound": "horse"
+	},
+	{
+		"name": "Bosniaken Machinegunner",
+		"replaces": "Machine Gun",
+		"uniqueTo": "United States Of Greater Austria",
+		"unitType": "Ranged Gunpowder",
+		"range": 1,
+		"movement": 2,
+		"strength": 60,
+		"rangedStrength": 60,
+		"cost": 350,
+		"requiredTech": "Ballistics",
+		"uniques": ["Can move after attacking","Can move immediately once bought"],
+		"promotions": ["Extended Range"],
+		"attackSound": "machinegun"
+	},
+]
