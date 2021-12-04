@@ -9,7 +9,7 @@
 		"cost": 125,
 		"requiredTech": "Chivalry",
 		"requiredResource": "Horses",
-		"uniques": ["Can move after attacking","[+50]% Strength <vs [Mounted]>""[+1] Sight", "[+50]% to Flank Attack bonuses"],
+		"uniques": ["Can move after attacking","[+50]% Strength <vs [Mounted]>","[+1] Sight","[+50]% to Flank Attack bonuses"],
 		"promotions": ["Charge","Great Generals II","Quick Study"],
         "hurryCostModifier": 20,
 		"attackSound": "horse"
