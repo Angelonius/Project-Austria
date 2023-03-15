@@ -4,3 +4,4 @@ Here are all the sources for the various image files used in this mod along with
 2. Turning the image into pure black-and-white: https://online-photo-converter.com/black-and-white-image
 3. Reichsritter: https://toppng.com/free-image/army-black-knights-logo-png-PNG-free-PNG-Images_132529
 4. Machine gun: https://thenounproject.com/search/?q=machine+gun&i=3998850 by Izwar Muis, ID 
+5. Reichsritter sprite: https://github.com/letstalkaboutdune
