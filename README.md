@@ -14,3 +14,5 @@ v.1.5: Updated Austria's unique.
 v.1.6: Updated Austria's unique.
 
 v.1.7: Added in Personalities.json as per the recent update.
+
+v.1.8: Updated the Personalities.json.
