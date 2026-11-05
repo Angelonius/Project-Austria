@@ -48,11 +48,13 @@
 	*/
     {
     "name": "Charles I",
+	    // Stats focused personalities
     "production": 7,
     "food": 7,
     "gold": 5,
     "science": 5,
     "culture": 8,
+		// Behavour focused personalities
     "happiness": 8,
     "faith": 9,
     "military": 8,
@@ -63,7 +65,8 @@
     "loyal": 9,
     "expansion": 5,
     "denounceWillingness": 5,
-    "priorities": {
+    
+	"priorities": {
       "Tradition": 7,
       "Liberty": 6,
       "Honor": 8,
