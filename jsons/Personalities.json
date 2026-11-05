@@ -1,4 +1,5 @@
- {
+[
+    {
     "name": "Charles I",
     "production": 7,
     "food": 7,
@@ -27,4 +28,5 @@
       "Autocracy": 7,
       "Order": 7
     }
-  },
+  }
+]
