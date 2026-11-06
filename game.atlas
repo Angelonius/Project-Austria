@@ -11,20 +11,6 @@ NationIcons/United States Of Greater Austria
   orig: 100, 100
   offset: 0, 0
   index: -1
-TileSets/FantasyHex/Reichsritter
-  rotate: false
-  xy: 420, 22
-  size: 77, 74
-  orig: 77, 74
-  offset: 0, 0
-  index: -1
-TileSets/FantasyHex/Units/Reichsritter
-  rotate: false
-  xy: 420, 22
-  size: 77, 74
-  orig: 77, 74
-  offset: 0, 0
-  index: -1
 UnitIcons/Bosniaken Machinegunner
   rotate: false
   xy: 4, 4

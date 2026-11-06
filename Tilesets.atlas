@@ -1,0 +1,13 @@
+
+Tilesets.png
+size: 128, 128
+format: RGBA8888
+filter: MipMapLinearLinear, MipMapLinearLinear
+repeat: none
+TileSets/HexaRealm/Units/Reichsritter
+  rotate: false
+  xy: 4, 4
+  size: 77, 74
+  orig: 77, 74
+  offset: 0, 0
+  index: -1
