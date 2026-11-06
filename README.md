@@ -18,3 +18,5 @@ v.1.7: Added in Personalities.json as per the recent update.
 v.1.8: Updated the Personalities.json.
 
 v.1.9: Added in some music.
+
+v.1.10: Updated the Reichsritter sprite to finally show up.
